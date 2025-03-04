@@ -1,4 +1,4 @@
-# Machine-Learning
+# Smart Agriculture
 Examples of machine learning models for beginners
 Machine learning (ML) is a subfield of artificial intelligence (AI) that focuses on enabling computers to learn from data without explicit programming. Essentially, it's about creating algorithms that can:   
 
